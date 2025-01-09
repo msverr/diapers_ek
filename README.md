@@ -12,7 +12,6 @@ This project scrapes data about diapers from the price aggregator website ([ek.u
         "https://ek.ua/ua/SENI-SUPER-TRIO-L---10-PCS.htm",
         "https://ek.ua/ua/HUGGIES-PANTS-GIRL-4---104-PCS.htm",
         "https://ek.ua/ua/PAMPERS-ACTIVE-BABY-6---128-PCS.htm",
-        ...
     ]
     ```
 
@@ -33,10 +32,8 @@ This project scrapes data about diapers from the price aggregator website ([ek.u
 
 ## **Project Files**
 
-├── diapers_data_from_ek.xlsx  # Excel file with parsed data and analysis
-├── diapers_links.json         # JSON file with product links
-├── diapers_links.py           # Script to scrape product links
-├── diapersEK.py               # Script to scrape product details and generate analytics
-├── README.md                  # Project documentation
-
-
+- `diapers_data_from_ek.xlsx` — Excel file with parsed data and analysis  
+- `diapers_links.json` — JSON file with product links  
+- `diapers_links.py` — Script to scrape product links  
+- `diapersEK.py` — Script to scrape product details and generate analytics  
+- `README.md` — Project documentation  
